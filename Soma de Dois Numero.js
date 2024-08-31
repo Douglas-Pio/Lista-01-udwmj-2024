@@ -1,4 +1,4 @@
-// script.js
+// soma.js
 function somarNumeros(a, b) {
     return a + b;
 }
